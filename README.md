@@ -5,7 +5,7 @@
 </h1>
 
 
-![](https://komarev.com/ghpvc/?username=krmdmr7&style=flat-square)
+![](https://komarev.com/ghpvc/?username=keremdemirios&style=flat-square)
 
 ### Hello there! 👋 This is Kerem Demir.
 
